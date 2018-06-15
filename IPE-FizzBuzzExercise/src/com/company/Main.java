@@ -17,7 +17,7 @@ public class Main {
 
     private static void FizzBuzz() {
 
-        for (int i = 1; i < 100; i++){
+        for (int i = 1; i <= 100; i++){
 
             String ch = "";
 
