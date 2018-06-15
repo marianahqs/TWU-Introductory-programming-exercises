@@ -41,6 +41,8 @@ public class Main {
                 }
 
             }
+
+        ch = ch.substring(0,ch.length()-1);
         System.out.println(ch);
 
         }

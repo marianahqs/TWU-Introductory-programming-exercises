@@ -11,11 +11,11 @@ public class Main {
 
         System.out.println("\n++++++++++ FIZZBUZZ EXERCISE ++++++++++");
 
-        FizzBuzz();
+        fizzBuzz();
 
     }
 
-    private static void FizzBuzz() {
+    private static void fizzBuzz() {
 
         for (int i = 1; i <= 100; i++){
 
