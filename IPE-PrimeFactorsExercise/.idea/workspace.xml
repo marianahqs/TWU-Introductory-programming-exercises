@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c23342d-091a-485a-88ee-2219d0464463" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../formas/src/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formas/src/Desenhador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formas/src/Quadrado.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IPE-FizzBuzzExercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-FizzBuzzExercise/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IPE-FizzBuzzExercise/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-FizzBuzzExercise/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPE-FizzBuzzExercise/out/production/IPE-FizzBuzzExercise/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-FizzBuzzExercise/out/production/IPE-FizzBuzzExercise/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IPE-TriangleExercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-TriangleExercises/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IPE-TriangleExercises/out/production/IPE-TriangleExercises/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-TriangleExercises/out/production/IPE-TriangleExercises/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IPE-TriangleExercises/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-TriangleExercises/src/com/company/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +25,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="45" column="31" lean-forward="true" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+            <state relative-caret-position="282">
+              <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -43,8 +44,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="336" />
-    <option name="y" value="250" />
+    <option name="x" value="239" />
+    <option name="y" value="201" />
     <option name="width" value="1056" />
     <option name="height" value="674" />
   </component>
@@ -100,7 +101,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="262" y="109" width="1056" height="674" extended-state="0" />
+    <frame x="239" y="201" width="1056" height="674" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
@@ -111,7 +112,7 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32851985" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32851985" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
@@ -138,8 +139,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="45" column="31" lean-forward="true" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+        <state relative-caret-position="282">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
         </state>
       </provider>
     </entry>

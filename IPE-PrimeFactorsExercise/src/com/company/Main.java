@@ -42,7 +42,7 @@ public class Main {
 
             }
 
-        ch = ch.substring(0,ch.length()-1);
+        ch = ch.substring(0,ch.length()-1); // Removes the last comma from the result
         System.out.println(ch);
 
         }
