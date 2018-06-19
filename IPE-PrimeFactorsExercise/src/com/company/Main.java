@@ -23,28 +23,42 @@ public class Main {
 
     }
 
+
+    private static String primeFactor(int number) {
+
+        for (int i = 2; i <= number; i++) {
+
+            if (number != i && number % i == 0) {
+                break;
+
+            } else if (number == i) {
+                return Integer.toString(i);
+            }
+        }
+
+        return null;
+    }
+
+
     private static void generate(int n) {
 
             String ch = "";
 
             for (int i=1; i<n;i++){
 
-                if(n%i == 0){
+                if(n%i == 0 && primeFactor(i) != null){
 
-                    for (int a=2; a<= i;a++){
-                        if(i!=a && i%a == 0){
-                            break;
-                        } else if (a==i){
-                            ch += Integer.toString(i)+",";
-                        }
-                    }
+                    ch += primeFactor(i)+",";
+
                 }
-
             }
 
         ch = ch.substring(0,ch.length()-1); // Removes the last comma from the result
         System.out.println(ch);
-
-        }
     }
+
+
+
+}
+
 
