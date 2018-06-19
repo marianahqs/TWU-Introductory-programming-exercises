@@ -16,15 +16,15 @@ public class Main {
 
         System.out.print("\nType a number: ");
 
-        int npfe = Integer.parseInt(keypad.nextLine());
+        int numberToCheck = Integer.parseInt(keypad.nextLine());
 
-        generate(npfe);
+        generate(numberToCheck);
 
 
     }
 
 
-    private static String primeFactor(int number) {
+    private static Boolean isPrimeFactor(int number) {
 
         for (int i = 2; i <= number; i++) {
 
@@ -32,31 +32,35 @@ public class Main {
                 break;
 
             } else if (number == i) {
-                return Integer.toString(i);
+                return true;
+
             }
         }
 
-        return null;
+        return false;
     }
 
 
-    private static void generate(int n) {
+    private static void generate(int number) {
 
-            String ch = "";
+        String ch = "";
 
-            for (int i=1; i<n;i++){
+        for (int i=1; i<number;i++){
 
-                if(n%i == 0 && primeFactor(i) != null){
+            if(number%i == 0 && isPrimeFactor(i)){
 
-                    ch += primeFactor(i)+",";
+                ch += Integer.toString(i) +",";
 
-                }
             }
+        }
 
-        ch = ch.substring(0,ch.length()-1); // Removes the last comma from the result
-        System.out.println(ch);
+        if (ch.length()>1){
+            ch = ch.substring(0,ch.length()-1); // Removes the last comma from the result
+            System.out.println(ch);
+
+        }
+
     }
-
 
 
 }
