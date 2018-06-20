@@ -1,4 +1,4 @@
-package com.company;
+package PrimeFactor;
 
 import java.util.Scanner;
 
@@ -18,7 +18,7 @@ public class PrimeFactorMain {
 
         int numberToCheck = Integer.parseInt(keypad.nextLine());
 
-        PrimeFactorGenerate exercise = new PrimeFactorGenerate();
+        PrimeFactorListGenerate exercise = new PrimeFactorListGenerate();
 
         System.out.println(exercise.generate(numberToCheck));
 
