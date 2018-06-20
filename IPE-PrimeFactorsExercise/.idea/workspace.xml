@@ -2,23 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c23342d-091a-485a-88ee-2219d0464463" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/src/DiamondExercise/IsoscelesTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/src/Test/isoscelesTriangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeFactor/PrimeFactorListGenerate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/IPE-DiamondExercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/IPE-DiamondExercises.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/out/production/IPE-DiamondExercises/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/src/DiamondExercise/DiamondExerciseMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IPE-PrimeFactorsExercise/com/company/PrimeFactorGenerate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IPE-PrimeFactorsExercise/com/company/PrimeFactorMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IPE-PrimeFactorsExercise/test/PrimeFactorGenerateTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/PrimeFactorGenerate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/PrimeFactorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeFactor/PrimeFactorMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/PrimeFactorGenerateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/PrimeFactorListGenerateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POO-Aula03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POO-Aula03/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POO-Aula05-ContaBanco/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POO-Aula05-ContaBanco/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/out/production/IPE-DiamondExercises/DiamondExercise/DiamondExerciseMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/out/production/IPE-DiamondExercises/DiamondExercise/DiamondExerciseMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/src/DiamondExercise/DiamondExerciseMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/src/DiamondExercise/DiamondExerciseMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/src/DiamondExercise/IsoscelesTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/src/DiamondExercise/IsoscelesTriangle.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

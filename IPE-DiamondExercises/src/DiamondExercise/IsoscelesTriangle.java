@@ -2,9 +2,6 @@ package DiamondExercise;
 
 public class IsoscelesTriangle {
 
-    int linesIsoscelesTriangle;
-
-
     public IsoscelesTriangle(){
 
     }

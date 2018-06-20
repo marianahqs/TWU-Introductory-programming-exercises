@@ -1,8 +1,8 @@
-package com.company;
+package TriangleExercises;
 
 import java.util.Scanner;
 
-public class Main {
+public class TriangleExercisesMain {
 
     public static void main(String[] args) {
 
@@ -23,11 +23,13 @@ public class Main {
 
         System.out.print("\nType a number: ");
 
-        int nh = Integer.parseInt(keypad.nextLine());
+        int horizontalLineSize = Integer.parseInt(keypad.nextLine());
 
-        for (int i = 0; i < nh; i++ )
+        int characterIndex;
 
-           System.out.print("*");
+        for (characterIndex = 0; characterIndex < horizontalLineSize; characterIndex++)
+
+            System.out.print("*");
 
 
 //*****************************************************************
@@ -37,9 +39,9 @@ public class Main {
 
         System.out.print("\nType a number: ");
 
-        int nv = Integer.parseInt(keypad.nextLine());
+        int verticalLineSize = Integer.parseInt(keypad.nextLine());
 
-        for (int i = 0; i < nv; i++ )
+        for (characterIndex = 0; characterIndex < verticalLineSize; characterIndex++)
 
             System.out.print("*\n");
 
@@ -51,14 +53,15 @@ public class Main {
 
         System.out.print("\nType a number: ");
 
-        int nrt = Integer.parseInt(keypad.nextLine());
+        int linesRightTriangle = Integer.parseInt(keypad.nextLine());
 
-        String ch = "*";
+        String stringResult = "*";
 
-        for (int i = 0; i < nrt; i++ ){
+        for (int lineIndex = 0; lineIndex < linesRightTriangle; lineIndex++) {
 
-            System.out.print(ch+"\n");
-            ch += "*";
+            System.out.print(stringResult + "\n");
+
+            stringResult += "*";
         }
 
     }
