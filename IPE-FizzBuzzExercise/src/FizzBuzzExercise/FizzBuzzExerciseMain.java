@@ -31,7 +31,7 @@ public class FizzBuzzExerciseMain {
                 stringResult += "Buzz";
             }
 
-            if (stringResult == ""){
+            if (stringResult.equals("")){
 
                 stringResult = Integer.toString(counter);
             }

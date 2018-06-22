@@ -1,4 +1,4 @@
-package PrimeFactor;
+package primefactor;
 
 import java.util.Scanner;
 

@@ -2,20 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb74e00c-24be-4881-a422-cb3140a938a9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IPE-TriangleExercises/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/src/java/diamondexercise/Diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/src/java/diamondexercise/DiamondName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/src/test/diamondexercise/IsoscelesTriangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/IPE-DiamondExercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/IPE-DiamondExercises.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/out/production/IPE-DiamondExercises/DiamondExercise/DiamondExerciseMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/out/production/IPE-DiamondExercises/DiamondExercise/DiamondExerciseMain.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/out/production/IPE-DiamondExercises/DiamondExercise/IsoscelesTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/out/production/IPE-DiamondExercises/DiamondExercise/IsoscelesTriangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/src/DiamondExercise/DiamondExerciseMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/src/DiamondExercise/DiamondExerciseMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/src/DiamondExercise/IsoscelesTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/src/DiamondExercise/IsoscelesTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/out/production/IPE-DiamondExercises/Test/isoscelesTriangleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/src/DiamondExercise/DiamondExerciseMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/src/java/diamondexercise/DiamondExerciseMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/src/DiamondExercise/IsoscelesTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/src/java/diamondexercise/IsoscelesTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/src/Test/isoscelesTriangleTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IPE-FizzBuzzExercise/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FizzBuzzExercise/FizzBuzzExerciseMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FizzBuzzExercise/FizzBuzzExerciseMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FizzBuzzExercise/FizzBuzzExerciseMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPE-PrimeFactorsExercise/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-PrimeFactorsExercise/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IPE-PrimeFactorsExercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-PrimeFactorsExercise/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPE-PrimeFactorsExercise/out/production/IPE-PrimeFactorsExercise/PrimeFactor/PrimeFactorListGenerate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-PrimeFactorsExercise/out/production/IPE-PrimeFactorsExercise/PrimeFactor/PrimeFactorListGenerate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPE-PrimeFactorsExercise/out/production/IPE-PrimeFactorsExercise/PrimeFactor/PrimeFactorMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-PrimeFactorsExercise/out/production/IPE-PrimeFactorsExercise/PrimeFactor/PrimeFactorMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPE-PrimeFactorsExercise/out/production/IPE-PrimeFactorsExercise/test/PrimeFactorListGenerateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-PrimeFactorsExercise/out/production/IPE-PrimeFactorsExercise/test/PrimeFactorListGenerateTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPE-PrimeFactorsExercise/src/PrimeFactor/PrimeFactorListGenerate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-PrimeFactorsExercise/src/primefactor/PrimeFactorListGenerate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPE-PrimeFactorsExercise/src/PrimeFactor/PrimeFactorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-PrimeFactorsExercise/src/primefactor/PrimeFactorMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPE-PrimeFactorsExercise/src/test/PrimeFactorListGenerateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-PrimeFactorsExercise/src/test/PrimeFactorListGenerateTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IPE-TriangleExercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-TriangleExercises/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IPE-TriangleExercises/out/production/IPE-TriangleExercises/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IPE-TriangleExercises/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-TriangleExercises/src/TriangleExercises/TriangleExercisesMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO-Aula05-ContaBanco/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POO-Aula05-ContaBanco/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,8 +40,8 @@
       <file leaf-file-name="FizzBuzzExerciseMain.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FizzBuzzExercise/FizzBuzzExerciseMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+            <state relative-caret-position="138">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -64,9 +74,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -89,6 +97,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,18 +164,17 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3277592" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32851985" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3277592" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3277592" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25766176" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26901248" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -175,6 +184,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3277592" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -185,6 +195,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/FizzBuzzExercise/FizzBuzzExerciseMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FizzBuzzExercise/FizzBuzzExerciseMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/FizzBuzzExercise/FizzBuzzExerciseMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -229,8 +253,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FizzBuzzExercise/FizzBuzzExerciseMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+        <state relative-caret-position="138">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
