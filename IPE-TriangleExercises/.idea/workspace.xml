@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45478552-fa23-4fb2-8024-b0a4c24513e7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/src/DiamondExercise/Diamond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/src/DiamondExercise/DiamondName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/out/production/IPE-DiamondExercises/DiamondExercise/DiamondExerciseMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/out/production/IPE-DiamondExercises/DiamondExercise/IsoscelesTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/out/production/IPE-DiamondExercises/DiamondExercise/IsoscelesTriangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/out/production/IPE-DiamondExercises/Test/isoscelesTriangleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/out/production/IPE-DiamondExercises/Test/isoscelesTriangleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/src/DiamondExercise/DiamondExerciseMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/src/DiamondExercise/DiamondExerciseMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/src/DiamondExercise/IsoscelesTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/src/DiamondExercise/IsoscelesTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IPE-FizzBuzzExercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-FizzBuzzExercise/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPE-FizzBuzzExercise/src/FizzBuzzExercise/FizzBuzzExerciseMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-FizzBuzzExercise/src/fizzbuzzexercise/FizzBuzzExerciseMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TriangleExercises/TriangleExercisesMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/triangleexercises/TriangleExercisesMain.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,12 +19,8 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="TriangleExercisesMain.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TriangleExercises/TriangleExercisesMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="65" selection-start-line="65" selection-end-line="65" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/triangleexercises/TriangleExercisesMain.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -44,12 +34,13 @@
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/TriangleExercises/Main.java" />
         <option value="$PROJECT_DIR$/src/TriangleExercises/TriangleExercisesMain.java" />
+        <option value="$PROJECT_DIR$/src/triangleexercises/TriangleExercisesMain.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="228" />
-    <option name="y" value="203" />
+    <option name="y" value="142" />
     <option name="width" value="1110" />
     <option name="height" value="758" />
   </component>
@@ -75,7 +66,7 @@
               <item name="IPE-TriangleExercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="IPE-TriangleExercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="TriangleExercises" type="462c0819:PsiDirectoryNode" />
+              <item name="triangleexercises" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -111,11 +102,11 @@
       <ConfigurationWrapper RunnerId="Run" />
     </configuration>
     <configuration name="TriangleExercisesMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TriangleExercises.TriangleExercisesMain" />
+      <option name="MAIN_CLASS_NAME" value="triangleexercises.TriangleExercisesMain" />
       <module name="IPE-TriangleExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TriangleExercises.*" />
+          <option name="PATTERN" value="triangleexercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,7 +136,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="228" y="203" width="1110" height="758" extended-state="0" />
+    <frame x="228" y="142" width="1110" height="758" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -159,7 +150,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22378278" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23127341" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -169,86 +160,96 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49753088" weight="0.3275862" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49753088" weight="0.3275862" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/TriangleExercises/TriangleExercisesMain.java">
+    <entry file="file://$PROJECT_DIR$/src/triangleexercises/TriangleExercisesMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/triangleexercises/TriangleExercisesMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/triangleexercises/TriangleExercisesMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
           <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TriangleExercises/TriangleExercisesMain.java">
+    <entry file="file://$PROJECT_DIR$/src/triangleexercises/TriangleExercisesMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
           <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TriangleExercises/TriangleExercisesMain.java">
+    <entry file="file://$PROJECT_DIR$/src/triangleexercises/TriangleExercisesMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="15" lean-forward="true" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TriangleExercises/TriangleExercisesMain.java">
+    <entry file="file://$PROJECT_DIR$/src/triangleexercises/TriangleExercisesMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TriangleExercises/TriangleExercisesMain.java">
+    <entry file="file://$PROJECT_DIR$/src/triangleexercises/TriangleExercisesMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TriangleExercises/TriangleExercisesMain.java">
+    <entry file="file://$PROJECT_DIR$/src/triangleexercises/TriangleExercisesMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="36" lean-forward="true" selection-start-line="35" selection-end-line="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TriangleExercises/TriangleExercisesMain.java">
+    <entry file="file://$PROJECT_DIR$/src/triangleexercises/TriangleExercisesMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TriangleExercises/TriangleExercisesMain.java">
+    <entry file="file://$PROJECT_DIR$/src/triangleexercises/TriangleExercisesMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TriangleExercises/TriangleExercisesMain.java">
+    <entry file="file://$PROJECT_DIR$/src/triangleexercises/TriangleExercisesMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TriangleExercises/TriangleExercisesMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/triangleexercises/TriangleExercisesMain.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

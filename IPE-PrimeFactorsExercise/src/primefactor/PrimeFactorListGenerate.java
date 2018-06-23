@@ -5,13 +5,11 @@ import java.util.List;
 
 public class PrimeFactorListGenerate {
 
-    public Boolean isPrimeNumber(int numberToCheckIfIsPrime) {
-
+    public Boolean isPrimeNumber(int numberToCheckIfPrime) {
         Boolean isPrime = true;
 
-        for (int numberToCheckIfIsAFactor = 2; numberToCheckIfIsAFactor <= numberToCheckIfIsPrime; numberToCheckIfIsAFactor++) { // Starts at 2 because all numbers are divided by 1
-
-            if (isFactorOf(numberToCheckIfIsAFactor, numberToCheckIfIsPrime) && numberToCheckIfIsPrime != numberToCheckIfIsAFactor) { // Because all numbers are divided by themselves
+        for (int numberToCheckIfAFactor = 2; numberToCheckIfAFactor < numberToCheckIfPrime; numberToCheckIfAFactor++) {
+            if (isFactorOf(numberToCheckIfAFactor, numberToCheckIfPrime)) {
                 isPrime = false;
             }
         }
@@ -22,22 +20,14 @@ public class PrimeFactorListGenerate {
         return dividend % divider == 0;
     }
 
-
     public String generate(int numberToIdentifyAllPrimeFactors) {
-
         List<String> resultList = new ArrayList<String>();
 
-
-        for (int numberToCheckIfIsAPrimeFactor = 2; numberToCheckIfIsAPrimeFactor < numberToIdentifyAllPrimeFactors; numberToCheckIfIsAPrimeFactor++) {
-
-            if (isFactorOf(numberToCheckIfIsAPrimeFactor, numberToIdentifyAllPrimeFactors) && isPrimeNumber(numberToCheckIfIsAPrimeFactor)) {
-
-                resultList.add(Integer.toString(numberToCheckIfIsAPrimeFactor));
-
+        for (int numberToCheckIfAPrimeFactor = 2; numberToCheckIfAPrimeFactor < numberToIdentifyAllPrimeFactors; numberToCheckIfAPrimeFactor++) {
+            if (isFactorOf(numberToCheckIfAPrimeFactor, numberToIdentifyAllPrimeFactors) && isPrimeNumber(numberToCheckIfAPrimeFactor)) {
+                resultList.add(Integer.toString(numberToCheckIfAPrimeFactor));
             }
         }
-
         return String.join(",", resultList);
-
     }
 }
