@@ -3,28 +3,19 @@ package diamondexercise;
 import java.util.List;
 
 public class DiamondName {
-    private int center;
+    private int size;
 
-    public DiamondName(int center){
-        this.center = center;
-
+    public DiamondName(int size){
+        this.size = size;
     }
-
 
     @Override
     public String toString() {
+        IsoscelesTriangle diamondName = new IsoscelesTriangle(this.size-1);
+        List<String> diamondNameList = diamondName.pointingUpList();
+        diamondNameList.add("MARI");
+        diamondNameList.addAll(diamondName.pointingDownList());
 
-        List<String> returnList;
-
-
-        IsoscelesTriangle upsideDiamond = new IsoscelesTriangle(this.center-1,false,0);
-
-
-        IsoscelesTriangle bottomDiamond = new IsoscelesTriangle(this.center-1,true,0);
-
-
-        return upsideDiamond.toString() + "\nMARI\n" + bottomDiamond.toString();
+        return String.join("\n", diamondNameList);
     }
-
-
 }

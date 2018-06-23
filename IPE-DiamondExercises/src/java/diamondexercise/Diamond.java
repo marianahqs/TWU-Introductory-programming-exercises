@@ -1,45 +1,22 @@
 package diamondexercise;
 
-import java.util.Collections;
 import java.util.List;
 
 public class Diamond {
 
-    private int center;
+    private int size;
 
-    public Diamond(int center) {
-        this.center = center;
-
+    public Diamond(int size) {
+        this.size = size;
     }
-
 
     @Override
     public String toString() {
+        IsoscelesTriangle diamond = new IsoscelesTriangle(this.size);
+        List<String> diamondList = diamond.pointingUpList();
+        diamondList.remove(diamondList.size()-1);
+        diamondList.addAll(diamond.pointingDownList());
 
-        String returnString;
-
-
-        IsoscelesTriangle upsideDiamond = new IsoscelesTriangle(this.center, false, 0);
-
-        if (this.center > 1) {
-
-
-            IsoscelesTriangle bottomDiamond = new IsoscelesTriangle(this.center - 1, true, 1);
-
-            List<String> pointingUp = upsideDiamond.pointingUp();
-            List<String> pointingDown = upsideDiamond.pointingDown();
-            pointingDown.remove(0);
-
-            pointingUp.addAll(pointingDown);
-
-            returnString = String.join("\n", pointingUp);
-
-        } else {
-
-            returnString = upsideDiamond.toString();
-        }
-
-        return returnString;
-
+        return String.join("\n", diamondList);
     }
 }

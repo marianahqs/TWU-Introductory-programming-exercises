@@ -1,68 +1,43 @@
 package diamondexercise;
 
-import org.jetbrains.annotations.NotNull;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
 public class IsoscelesTriangle {
-
     private int size;
-    private boolean isUpsideDown;
-    private int offset;
 
-
-    public IsoscelesTriangle(int size,boolean isUpsideDown, int offset){
+    public IsoscelesTriangle(int size){
         this.size = size;
-        this.isUpsideDown = isUpsideDown;
-        this.offset = offset;
-
     }
 
     @Override
     public String toString() {
-        return String.join("\n", this.pointingUp());
+        return String.join("\n", this.pointingUpList());
     }
 
-    public List<String> pointingDown() {
-        List<String> arrayResult;
-        arrayResult = this.pointingUp();
-
+    public List<String> pointingDownList() {
+        List<String> arrayResult = this.pointingUpList();
         Collections.reverse(arrayResult);
         return arrayResult;
     }
 
-
-    public List<String> pointingUp(){
-        return collectTriangleLines(this.size, this.offset);
+    public List<String> pointingUpList(){
+        return collectTriangleLines(this.size);
     }
 
-
-    private List<String> collectTriangleLines(int size, int offset) {
+    private List<String> collectTriangleLines(int size) {
         List<String> arrayResult = new ArrayList<String>();
 
-        String stringResult;
-
-
         for (int lineIndex = 0; lineIndex < size; lineIndex++ ){
-
-            int lastCharacterThisLine = size + lineIndex + offset;
-
-            int firstStarCharacterThisLine = size - lineIndex +offset;
-
-            stringResult = buildString(lastCharacterThisLine, firstStarCharacterThisLine);
-
-            arrayResult.add(stringResult);
-
+            int lastCharacterThisLine = size + lineIndex;
+            int firstStarCharacterThisLine = size - lineIndex;
+            arrayResult.add(buildLineString(lastCharacterThisLine, firstStarCharacterThisLine));
         }
-
         return arrayResult;
     }
 
-
-    private String buildString(int lastCharacter, int firstStarCharacter) {
-
+    private String buildLineString(int lastCharacter, int firstStarCharacter) {
         String stringResult = "";
 
         for (int characterIndex = 1; characterIndex <= lastCharacter; characterIndex++) {
@@ -71,12 +46,8 @@ public class IsoscelesTriangle {
 
             } else {
                 stringResult += "*";
-
             }
         }
-
         return stringResult;
     }
-
-
 }
