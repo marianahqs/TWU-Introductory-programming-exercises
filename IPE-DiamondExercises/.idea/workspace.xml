@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb88142e-5213-46ac-9bb6-058e476ebea0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/diamondexercise/DiamondNameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/diamondexercise/DiamondTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IPE-DiamondExercises/DiamondExercise/DiamondExerciseMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IPE-DiamondExercises/DiamondExercise/DiamondExerciseMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IPE-DiamondExercises/DiamondExercise/IsoscelesTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IPE-DiamondExercises/DiamondExercise/IsoscelesTriangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IPE-DiamondExercises/diamondexercise/Diamond.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IPE-DiamondExercises/diamondexercise/Diamond.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IPE-DiamondExercises/diamondexercise/DiamondName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IPE-DiamondExercises/diamondexercise/DiamondName.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/IPE-DiamondExercises/diamondexercise/IsoscelesTriangleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/IPE-DiamondExercises/diamondexercise/IsoscelesTriangleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/diamondexercise/Diamond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/diamondexercise/Diamond.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/diamondexercise/DiamondExerciseMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/diamondexercise/DiamondExerciseMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/diamondexercise/DiamondName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/diamondexercise/DiamondName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/diamondexercise/IsoscelesTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/diamondexercise/IsoscelesTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/diamondexercise/IsoscelesTriangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/diamondexercise/IsoscelesTriangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TWU_Biblioteca-master/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TWU_Biblioteca-master/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TWU_Biblioteca-master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TWU_Biblioteca-master/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -68,10 +57,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="37" />
-    <option name="y" value="95" />
-    <option name="width" value="1235" />
-    <option name="height" value="797" />
+    <option name="x" value="480" />
+    <option name="y" value="211" />
+    <option name="width" value="953" />
+    <option name="height" value="741" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -79,9 +68,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,6 +110,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -335,11 +324,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="95" width="1235" height="797" extended-state="0" />
+    <frame x="480" y="211" width="953" height="741" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.20450886" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -350,8 +338,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21123219" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.4239291" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.298573" />
       <window_info id="Learn" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24938272" />
@@ -364,6 +351,8 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.4239291" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.20450886" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -415,10 +404,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -426,9 +411,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="41" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -436,16 +418,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-            <element signature="e#971#979#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -460,9 +432,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="45" column="34" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -470,16 +439,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="32" column="72" selection-start-line="32" selection-start-column="72" selection-end-line="32" selection-end-column="72" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-            <element signature="e#971#979#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -494,16 +453,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-            <element signature="e#971#979#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -519,16 +468,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-            <element signature="e#971#979#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -631,10 +570,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="244" column="18" selection-start-line="244" selection-start-column="18" selection-end-line="244" selection-end-column="18" />
-          <folding>
-            <element signature="e#10225#10226#0" expanded="true" />
-            <element signature="e#10308#10309#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -649,9 +584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="62" lean-forward="true" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -659,9 +591,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -676,16 +605,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
           <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-            <element signature="e#971#979#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -704,10 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

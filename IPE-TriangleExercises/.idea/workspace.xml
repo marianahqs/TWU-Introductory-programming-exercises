@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="45478552-fa23-4fb2-8024-b0a4c24513e7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IPE-FizzBuzzExercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-FizzBuzzExercise/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IPE-FizzBuzzExercise/src/FizzBuzzExercise/FizzBuzzExerciseMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-FizzBuzzExercise/src/fizzbuzzexercise/FizzBuzzExerciseMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TriangleExercises/TriangleExercisesMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/triangleexercises/TriangleExercisesMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TWU_Biblioteca-master/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TWU_Biblioteca-master/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TWU_Biblioteca-master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TWU_Biblioteca-master/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +18,9 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="TriangleExercisesMain.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/triangleexercises/TriangleExercisesMain.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-207" />
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -50,6 +50,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -72,9 +73,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -137,6 +137,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="228" y="142" width="1110" height="758" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -150,7 +151,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23127341" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30243444" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -171,6 +172,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/triangleexercises/TriangleExercisesMain.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/triangleexercises/TriangleExercisesMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -249,7 +253,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/triangleexercises/TriangleExercisesMain.java">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207" />
+      </provider>
     </entry>
   </component>
 </project>
