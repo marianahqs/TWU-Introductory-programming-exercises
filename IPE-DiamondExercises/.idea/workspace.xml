@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb88142e-5213-46ac-9bb6-058e476ebea0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../TWU_Biblioteca-master/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TWU_Biblioteca-master/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TWU_Biblioteca-master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TWU_Biblioteca-master/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IPE-DiamondExercises/DiamondExercise/DiamondExerciseMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IPE-DiamondExercises/DiamondExercise/DiamondExerciseMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IPE-DiamondExercises/DiamondExercise/IsoscelesTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IPE-DiamondExercises/DiamondExercise/IsoscelesTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IPE-DiamondExercises/diamondexercise/Diamond.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IPE-DiamondExercises/diamondexercise/Diamond.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IPE-DiamondExercises/diamondexercise/DiamondName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IPE-DiamondExercises/diamondexercise/DiamondName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/diamondexercise/IsoscelesTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/diamondexercise/IsoscelesTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPE-PrimeFactorsExercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-PrimeFactorsExercise/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPE-PrimeFactorsExercise/src/primefactor/PrimeFactorListGenerate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-PrimeFactorsExercise/src/primefactor/PrimeFactorListGenerate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPE-TriangleExercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-TriangleExercises/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,8 +20,79 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="IsoscelesTriangle.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java/diamondexercise/IsoscelesTriangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="591">
+              <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#234#235#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#343#344#0" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
+                <element signature="e#620#621#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiamondTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/diamondexercise/DiamondTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiamondNameTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/diamondexercise/DiamondNameTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Diamond.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/diamondexercise/Diamond.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiamondExerciseMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/diamondexercise/DiamondExerciseMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="64" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiamondName.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/diamondexercise/DiamondName.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,17 +127,18 @@
         <option value="$PROJECT_DIR$/src/test/diamondexercise/IsoscelesTriangleTest.java" />
         <option value="$PROJECT_DIR$/src/test/diamondexercise/DiamondTest.java" />
         <option value="$PROJECT_DIR$/src/test/diamondexercise/DiamondNameTest.java" />
-        <option value="$PROJECT_DIR$/src/java/diamondexercise/IsoscelesTriangle.java" />
         <option value="$PROJECT_DIR$/src/java/diamondexercise/DiamondName.java" />
         <option value="$PROJECT_DIR$/src/java/diamondexercise/Diamond.java" />
         <option value="$PROJECT_DIR$/src/java/diamondexercise/DiamondExerciseMain.java" />
+        <option value="$PROJECT_DIR$/src/java/diamondexercise/IsoscelesTriangle.java" />
+        <option value="$PROJECT_DIR$/src/java/diamondexercise/FormatColumns.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="480" />
-    <option name="y" value="211" />
-    <option name="width" value="953" />
+    <option name="x" value="158" />
+    <option name="y" value="93" />
+    <option name="width" value="1248" />
     <option name="height" value="741" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -110,9 +189,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -158,7 +237,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.diamondexercise in IPE-DiamondExercises">
+  <component name="RunManager" selected="JUnit.All in IPE-DiamondExercises">
     <configuration name="DiamondExerciseMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="diamondexercise.DiamondExerciseMain" />
       <module name="IPE-DiamondExercises" />
@@ -168,6 +247,23 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+    </configuration>
+    <configuration name="All in IPE-DiamondExercises" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IPE-DiamondExercises" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="DiamondNameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="IPE-DiamondExercises" />
@@ -215,29 +311,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="IsoscelesTriangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="IPE-DiamondExercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="diamondexercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="diamondexercise" />
-      <option name="MAIN_CLASS_NAME" value="diamondexercise.IsoscelesTriangleTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
     <configuration name="diamondexercise in IPE-DiamondExercises" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="IPE-DiamondExercises" />
       <extension name="coverage">
@@ -262,19 +335,19 @@
       <patterns />
     </configuration>
     <list>
-      <item itemvalue="JUnit.IsoscelesTriangleTest" />
       <item itemvalue="Application.DiamondExerciseMain (1)" />
       <item itemvalue="JUnit.DiamondTest" />
       <item itemvalue="JUnit.DiamondNameTest" />
       <item itemvalue="JUnit.diamondexercise in IPE-DiamondExercises" />
+      <item itemvalue="JUnit.All in IPE-DiamondExercises" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in IPE-DiamondExercises" />
         <item itemvalue="JUnit.diamondexercise in IPE-DiamondExercises" />
         <item itemvalue="JUnit.DiamondTest" />
         <item itemvalue="JUnit.DiamondNameTest" />
         <item itemvalue="Application.DiamondExerciseMain (1)" />
-        <item itemvalue="JUnit.IsoscelesTriangleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -292,15 +365,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DiamondTest - 2018.06.23 at 10h 49m 51s.xml">
-      <configuration name="DiamondTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DiamondNameTest - 2018.06.23 at 10h 50m 34s.xml">
-      <configuration name="DiamondNameTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DiamondNameTest - 2018.06.23 at 10h 57m 31s.xml">
-      <configuration name="DiamondNameTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DiamondNameTest - 2018.06.23 at 11h 00m 17s.xml">
       <configuration name="DiamondNameTest" configurationId="JUnit" />
     </history-entry>
@@ -322,9 +386,19 @@
     <history-entry file="diamondexercise_in_IPE-DiamondExercises - 2018.06.23 at 11h 08m 09s.xml">
       <configuration name="diamondexercise in IPE-DiamondExercises" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_IPE-DiamondExercises - 2018.06.23 at 13h 46m 22s.xml">
+      <configuration name="All in IPE-DiamondExercises" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_IPE-DiamondExercises - 2018.06.27 at 15h 55m 14s.xml">
+      <configuration name="All in IPE-DiamondExercises" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_IPE-DiamondExercises - 2018.06.29 at 13h 34m 13s.xml">
+      <configuration name="All in IPE-DiamondExercises" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="480" y="211" width="953" height="741" extended-state="0" />
+    <frame x="158" y="93" width="1248" height="741" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -333,12 +407,12 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25110784" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24959743" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.298573" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27197346" />
       <window_info id="Learn" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24938272" />
@@ -348,11 +422,11 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.20450886" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.4239291" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.20450886" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -382,6 +456,113 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/java/diamondexercise/DiamondExerciseMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/diamondexercise/DiamondName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/diamondexercise/DiamondNameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/diamondexercise/IsoscelesTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="9" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="49" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/diamondexercise/Diamond.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/diamondexercise/DiamondExerciseMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/diamondexercise/DiamondName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/diamondexercise/IsoscelesTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/diamondexercise/Diamond.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/diamondexercise/DiamondExerciseMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/diamondexercise/DiamondName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/java/diamondexercise/DiamondExerciseMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -587,9 +768,10 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/diamondexercise/FormatColumns.java" />
     <entry file="file://$PROJECT_DIR$/src/test/diamondexercise/DiamondTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state relative-caret-position="150">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
@@ -597,14 +779,21 @@
     <entry file="file://$PROJECT_DIR$/src/test/diamondexercise/DiamondNameTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/diamondexercise/IsoscelesTriangle.java">
+    <entry file="file://$PROJECT_DIR$/src/java/diamondexercise/Diamond.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="180">
+          <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/diamondexercise/DiamondExerciseMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="64" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
         </state>
       </provider>
     </entry>
@@ -619,17 +808,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/diamondexercise/Diamond.java">
+    <entry file="file://$PROJECT_DIR$/src/java/diamondexercise/IsoscelesTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/diamondexercise/DiamondExerciseMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        <state relative-caret-position="591">
+          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

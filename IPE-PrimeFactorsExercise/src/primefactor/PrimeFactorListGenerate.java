@@ -21,7 +21,7 @@ public class PrimeFactorListGenerate {
     }
 
     public String generate(int numberToIdentifyAllPrimeFactors) {
-        List<String> resultList = new ArrayList<String>();
+        List<String> resultList = new ArrayList<>();
 
         for (int numberToCheckIfAPrimeFactor = 2; numberToCheckIfAPrimeFactor < numberToIdentifyAllPrimeFactors; numberToCheckIfAPrimeFactor++) {
             if (isFactorOf(numberToCheckIfAPrimeFactor, numberToIdentifyAllPrimeFactors) && isPrimeNumber(numberToCheckIfAPrimeFactor)) {

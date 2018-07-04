@@ -3,12 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="7c23342d-091a-485a-88ee-2219d0464463" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IPE-FizzBuzzExercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-FizzBuzzExercise/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IPE-FizzBuzzExercise/src/FizzBuzzExercise/FizzBuzzExerciseMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-FizzBuzzExercise/src/fizzbuzzexercise/FizzBuzzExerciseMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/out/production/IPE-DiamondExercises/DiamondExercise/DiamondExerciseMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/out/production/IPE-DiamondExercises/DiamondExercise/DiamondExerciseMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/out/production/IPE-DiamondExercises/DiamondExercise/IsoscelesTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/out/production/IPE-DiamondExercises/DiamondExercise/IsoscelesTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/out/production/IPE-DiamondExercises/diamondexercise/Diamond.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/out/production/IPE-DiamondExercises/diamondexercise/Diamond.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/out/production/IPE-DiamondExercises/diamondexercise/DiamondName.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/out/production/IPE-DiamondExercises/diamondexercise/DiamondName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPE-DiamondExercises/src/java/diamondexercise/IsoscelesTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-DiamondExercises/src/java/diamondexercise/IsoscelesTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/primefactor/PrimeFactorListGenerate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primefactor/PrimeFactorListGenerate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/primefactor/PrimeFactorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primefactor/PrimeFactorMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IPE-TriangleExercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-TriangleExercises/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IPE-TriangleExercises/src/TriangleExercises/TriangleExercisesMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IPE-TriangleExercises/src/triangleexercises/TriangleExercisesMain.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,13 +32,10 @@
       <file leaf-file-name="PrimeFactorListGenerate.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/primefactor/PrimeFactorListGenerate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            <state relative-caret-position="330">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#722#723#0" expanded="true" />
-                <element signature="e#768#769#0" expanded="true" />
-                <element signature="e#885#893#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -47,7 +44,7 @@
       <file leaf-file-name="PrimeFactorListGenerateTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/PrimeFactorListGenerateTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
+            <state relative-caret-position="420">
               <caret line="30" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -108,8 +105,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,7 +133,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -289,11 +286,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="75" y="51" width="1275" height="782" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32496697" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -304,7 +299,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16382806" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16626115" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -318,12 +313,47 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32496697" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/primefactor/PrimeFactorMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/PrimeFactorListGenerateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="220" selection-start-line="220" selection-end-line="220" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/primefactor/PrimeFactorListGenerate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/primefactor/PrimeFactorMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -354,9 +384,6 @@
           <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-            <element signature="e#768#769#0" expanded="true" />
-            <element signature="e#885#893#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -384,9 +411,6 @@
           <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-            <element signature="e#768#769#0" expanded="true" />
-            <element signature="e#885#893#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -435,7 +459,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/PrimeFactorListGenerateTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
+        <state relative-caret-position="420">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -452,13 +476,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/primefactor/PrimeFactorListGenerate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="330">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-            <element signature="e#768#769#0" expanded="true" />
-            <element signature="e#885#893#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -27,7 +27,7 @@ public class IsoscelesTriangle {
     }
 
     private List<String> collectTriangleLines(int size) {
-        List<String> arrayResult = new ArrayList<String>();
+        List<String> arrayResult = new ArrayList<>();
 
         for (int lineIndex = 0; lineIndex < size; lineIndex++ ){
             int lastCharacterThisLine = size + lineIndex;
@@ -38,16 +38,16 @@ public class IsoscelesTriangle {
     }
 
     private String buildLineString(int lastCharacter, int firstStarCharacter) {
-        String stringResult = "";
+        StringBuilder stringResult = new StringBuilder("");
 
         for (int characterIndex = 1; characterIndex <= lastCharacter; characterIndex++) {
             if (characterIndex < firstStarCharacter) {
-                stringResult += " ";
+                stringResult.append(" ");
 
             } else {
-                stringResult += "*";
+                stringResult.append("*");
             }
         }
-        return stringResult;
+        return stringResult.toString();
     }
 }
